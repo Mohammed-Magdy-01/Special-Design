@@ -1,5 +1,4 @@
 // local Storage
-
 let mainColor = localStorage.getItem("color-option");
 
 if (mainColor !== null) {
@@ -95,11 +94,11 @@ randomBackground.forEach((span) => {
 let landingPage = document.querySelector(".landing-page");
 // get Images By URL
 let imgArray = [
-  "../imgs/01.jpg",
-  "../imgs/02.jpg",
-  "../imgs/03.jpg",
-  "../imgs/04.jpg",
-  "../imgs/05.jpg",
+  "imgs/01.jpg",
+  "imgs/02.jpg",
+  "imgs/03.jpg",
+  "imgs/04.jpg",
+  "imgs/05.jpg",
 ];
 
 // Preload
