@@ -97,11 +97,11 @@ randomBackground.forEach((span) => {
 let landingPage = document.querySelector(".landing-page");
 // get Images By URL
 let imgArray = [
-  "/Imgs/01.jpg",
-  "/Imgs/02.jpg",
-  "/Imgs/03.jpg",
-  "/Imgs/04.jpg",
-  "/Imgs/05.jpg",
+  "/imgs/01.jpg",
+  "/imgs/02.jpg",
+  "/imgs/03.jpg",
+  "/imgs/04.jpg",
+  "/imgs/05.jpg",
 ];
 
 // Preload
