@@ -133,7 +133,7 @@ body {
 /* Start Landing Page */
 .landing-page {
   height: 100vh;
-  background-image: url(../Imgs/01.jpg);
+  background-image: url(../imgs/01.jpg);
   background-size: cover;
   position: relative;
   transition: var(--main-transition);
