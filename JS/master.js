@@ -6,7 +6,6 @@ if (mainColor !== null) {
   document.documentElement.style.setProperty(
     "--main-color",
     mainColor,
-
     // Remove Active Class From All List Items
     document.querySelectorAll(".color-list li").forEach((element) => {
       element.classList.remove("active");
@@ -18,7 +17,6 @@ if (mainColor !== null) {
     })
   );
 }
-
 // Random Background Option
 let backgroundOption = true;
 // Varibale To Control The Background Interval
